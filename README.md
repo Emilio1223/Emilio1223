@@ -12,9 +12,16 @@ Full Stack Developer | Python | Electronic Engineering | AI/ML Engineering
 ![](https://streak-stats.demolab.com/?user=Emilio1223&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Emilio1223&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Dev Quote
 
+<div align="center">
+
+> *"Un buen desarrollador es aquel que encuentra soluciones a los problemas antes de que surjan."*  
+> **— Bill Gates**, fundador de Microsoft
+
+</div>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 [![](https://komarev.com/ghpvc/?username=Emilio1223&icon=0&color=0)](https://visitcount.itsvg.in)
 
