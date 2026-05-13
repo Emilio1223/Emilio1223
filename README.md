@@ -22,7 +22,6 @@ Full Stack Developer | Python | Electronic Engineering | AI/ML Engineering
 
 </div>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 [![](https://komarev.com/ghpvc/?username=Emilio1223&icon=0&color=0)](https://visitcount.itsvg.in)
 
