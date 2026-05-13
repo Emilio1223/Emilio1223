@@ -18,7 +18,7 @@ Full Stack Developer | Python | Electronic Engineering | AI/ML Engineering
 
 <i>"A good developer is one who finds solutions to problems before they arise.."</i>
 
-<b>— Bill Gates</b>, fundador de Microsoft
+<b>— Bill Gates</b>
 
 </div>
 
