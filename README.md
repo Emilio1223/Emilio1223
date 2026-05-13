@@ -14,12 +14,8 @@ Full Stack Developer | Python | Electronic Engineering | AI/ML Engineering
 
 ### ✍️ Dev Quote
 
-<div align="center">
-
-> *"Un buen desarrollador es aquel que encuentra soluciones a los problemas antes de que surjan."*  
-> **— Bill Gates**, fundador de Microsoft
-
-</div>
+> "Un buen desarrollador es aquel que encuentra soluciones a los problemas antes de que surjan."
+> — Bill Gates, fundador de Microsoft
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
