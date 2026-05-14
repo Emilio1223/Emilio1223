@@ -1,6 +1,4 @@
-<div align="center">
 # 💫 About Me:
-  </div>
 Full Stack Developer | Python | Electronic Engineering | AI/ML Engineering 
 
 
