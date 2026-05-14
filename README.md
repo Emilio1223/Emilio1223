@@ -1,6 +1,7 @@
 # 💫 About Me:
 AI/ML Engineering | Full Stack Developer | Electronic Engineering 
-
+Turning ideas into intelligent products through AI, software, and engineering.
+I work across Machine Learning, Full Stack Development, and Electronic Engineering to build systems that are both smart and practical.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emirodriguez5004) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilio-rodriguez-rojas-13a959320/) 
