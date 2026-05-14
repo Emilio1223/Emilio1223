@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developer | Python | Electronic Engineering | AI/ML Engineering 
+AI/ML Engineering | Full Stack Developer | Electronic Engineering 
 
 
 ## 🌐 Socials:
